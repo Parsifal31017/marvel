@@ -1,0 +1,75 @@
+.hr1 {
+    width: 100px;
+    height: 5px;
+    margin-left: 10px;
+    background-color: yellow;
+}
+
+.hr2 {
+    width: 100px;
+    height: 5px;
+    margin-left: 10px;
+    background-color: white;
+}
+
+.hr3 {
+    width: 100px;
+    height: 5px;
+    margin-left: 10px;
+    background-color: yellow;
+}
+
+button {
+    background: yellow;
+}
+
+.about {
+    height:650px;
+}
+
+.services {
+    background-color: yellow;
+    height: 850px;
+}
+
+.contact {
+    background-color: black;
+    height: 700px;
+}
+
+.header-block {
+    background-image: url(https://www.caritasmalta.org/wp-content/uploads/2019/12/Hero-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.display-1 {
+    margin-top: 200px;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.display-2 {
+    margin-top: 50px;
+}
+
+.stay {
+    margin-top: 100px;
+}
+
+button {
+    background-color: yellow;
+}
+
+.us btn-lg {
+    background-color: yellow;
+    margin-top: 500px;
+}
+
+p {
+    font-size: 19px;
+}
